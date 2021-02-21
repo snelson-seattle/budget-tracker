@@ -19,7 +19,7 @@ When brought back online:
 Node, Express, MongoDB w/ Mongoose, Morgan, Compression
 
 #### Frontend
-Bootstrap, Fontawesome, HTML5, CSS3, Javascript
+Bootstrap, Fontawesome, HTML5, CSS3, Javascript, IndexedDB
 
 ## User Story
 AS AN avid traveller
